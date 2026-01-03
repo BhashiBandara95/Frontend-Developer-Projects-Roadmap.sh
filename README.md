@@ -1,1 +1,3 @@
-# Frontend-Developer-Projects-Roadmap.sh
+# Beginner Projects
+
+1. Single-Page CV
